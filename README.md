@@ -124,7 +124,6 @@ project-folder/
 - **Slice Numbers**: Default slice numbers are calculated as midpoints of the dimensions. Modify these in the visualization functions if needed.
 
 
-Usage:
 ---
 ## Customization
 
