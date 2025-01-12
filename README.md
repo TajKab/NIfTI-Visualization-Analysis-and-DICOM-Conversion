@@ -10,6 +10,7 @@ This project provides a comprehensive toolkit for working with NIfTI files, focu
 ### Features
 - **3D and 2D Visualization**:
   - Visualize anatomical data slices (frontal, sagittal, horizontal views).
+  - ![anatomical nitfi view](https://github.com/user-attachments/assets/0a5c2236-4255-4532-8d15-cecfa940b760)
   - Render 3D data with slice planes and record rotating views as videos.
 - **Signal Extraction**:
   - Extract and plot voxel-specific BOLD signals over time.
