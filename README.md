@@ -150,7 +150,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 - **Dataset**: https://openneuro.org/ is one of the best platforms for getting medical image data
 
 ## Contact
-For questions or support, contact tajbiul001@gmail.com (mailto:tajbiul001@gmail.com)
+For questions or support, contact tajbiul001@gmail.com 
 
 
 
