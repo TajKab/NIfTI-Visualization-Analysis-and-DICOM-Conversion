@@ -17,3 +17,10 @@ voxel_z = 25; % Example z-coordinate
 
 disp('Visualizing Functional Image...');
 nifti_visualize_func(path_func, voxel_x, voxel_y, voxel_z);
+
+% Convert 3D .fig files to video
+fprintf('Converting Anatomical 3D Visualization to Video...\n');
+fig_to_video('anatomical.fig', 'anatomical_video.mp4');
+
+fprintf('Converting Functional 3D Visualization to Video...\n');
+fig_to_video('functional.fig', 'functional_video.mp4');
