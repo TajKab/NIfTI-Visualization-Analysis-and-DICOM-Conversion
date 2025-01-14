@@ -108,7 +108,8 @@ project-folder/
 - **3D Visualization**:
   ![Anatomical 3D](https://via.placeholder.com/600x400?text=Anatomical+3D+Visualization)
 - **2D Slices**:
-  ![Anatomical 2D](https://via.placeholder.com/600x400?text=Anatomical+2D+Slices)
+  ![Anatomical 2D](![anatomical nitfi view](https://github.com/user-attachments/assets/34dcaee5-afac-4c6d-972c-7c4da5bc49c9)
+)
 
 ### Functional Image
 - **3D Visualization**:
