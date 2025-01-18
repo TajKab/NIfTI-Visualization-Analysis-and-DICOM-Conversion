@@ -106,14 +106,13 @@ project-folder/
 
 ### Anatomical Image
 - **3D Visualization**:
-  ![Anatomical 3D](https://via.placeholder.com/600x400?text=Anatomical+3D+Visualization)
-- **2D Slices**:
+  ![Anatomical 3D](https://github.com/user-attachments/assets/7961ad11-3e4e-4a5d-b518-8214cceee2b7) 
 - (![anatomical nitfi view](https://github.com/user-attachments/assets/34dcaee5-afac-4c6d-972c-7c4da5bc49c9)
 )
 
 ### Functional Image
 - **3D Visualization**:
-  (https://github.com/user-attachments/assets/e40ffb51-6cb0-4337-9611-b6a9044a9aa9)
+  ![Functional 3D](https://github.com/user-attachments/assets/e40ffb51-6cb0-4337-9611-b6a9044a9aa9)
 - **BOLD Signal**:
   ![BOLD Signal](https://via.placeholder.com/600x400?text=BOLD+Signal+Plot)
 
