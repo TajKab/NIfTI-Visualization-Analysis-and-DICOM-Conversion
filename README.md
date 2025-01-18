@@ -113,7 +113,7 @@ project-folder/
 
 ### Functional Image
 - **3D Visualization**:
-  ![Functional 3D](https://via.placeholder.com/600x400?text=Functional+3D+Visualization)
+  [![Functional 3D](https://via.placeholder.com/600x400?text=Functional+3D+Visualization)](https://github.com/user-attachments/assets/e40ffb51-6cb0-4337-9611-b6a9044a9aa9)
 - **BOLD Signal**:
   ![BOLD Signal](https://via.placeholder.com/600x400?text=BOLD+Signal+Plot)
 
