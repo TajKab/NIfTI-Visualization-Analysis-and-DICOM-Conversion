@@ -11,7 +11,7 @@ This project provides a comprehensive toolkit for working with **NIfTI (Neuroima
 ### Features
 - **3D and 2D Visualization**:
   - Visualize anatomical data slices (frontal, sagittal, horizontal views).
-  - ![anatomical nitfi view](https://github.com/user-attachments/assets/0a5c2236-4255-4532-8d15-cecfa940b760)
+  - ![Slices](https://github.com/user-attachments/assets/edaef075-2587-4c03-a07b-53362770bdbf)
   - Render 3D data with slice planes and record rotating views as videos.
 - **Signal Extraction**:
   - Extract and plot voxel-specific BOLD signals over time.
@@ -105,13 +105,13 @@ project-folder/
 ## Example Output
 
 ### Anatomical Image
-- **3D Visualization**:
+- **3D Visualization**: Click in the image for 3D view
   ![Anatomical 3D](https://github.com/user-attachments/assets/7961ad11-3e4e-4a5d-b518-8214cceee2b7) 
 - (![anatomical nitfi view](https://github.com/user-attachments/assets/34dcaee5-afac-4c6d-972c-7c4da5bc49c9)
 )
 
 ### Functional Image
-- **3D Visualization**:
+- **3D Visualization**: Click in the image for 3D view
   [![Functional 3D](https://github.com/user-attachments/assets/131c26d3-3931-460e-851e-6f52d177d5d4)](https://github.com/user-attachments/assets/e40ffb51-6cb0-4337-9611-b6a9044a9aa9)
 - **BOLD Signal**:
   ![BOLD Signal](https://github.com/user-attachments/assets/a0056069-1dbd-40e7-b9d4-7fdaee1b1214)
